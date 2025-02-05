@@ -20,7 +20,7 @@ Welcome to the **Password Generator**! This simple yet powerful tool helps users
 
 Experience the **Password Generator** in action!
 
-👉 [**Live Demo Link**](#) *(Add your live demo link once hosted)*
+👉 https://akhil-jonnalagadda.github.io/SafeKey-Generator/
 
 ## 💻 **Technologies Used**
 
